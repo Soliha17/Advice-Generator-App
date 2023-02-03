@@ -10,6 +10,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
@@ -39,3 +40,9 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+## Author
+
+- Frontend Mentor - [Krrish105](https://www.frontendmentor.io/profile/Krrish105)
+- Twitter - [\_karishma10](https://twitter.com/_karishma10)
+- Codepen - [Krrish105](https://codepen.io/krrish105)
