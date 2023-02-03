@@ -25,6 +25,10 @@ Users should be able to:
 
 ![](./images/screenshot.png)
 
+### Links
+
+- Solution URL: [https://github.com/Krrish105/Advice-Generator-App](https://github.com/Krrish105/Advice-Generator-App)
+- Live Site URL: [https://krrish105.github.io/Advice-Generator-App/](https://krrish105.github.io/Advice-Generator-App/)
 
 ## My process
 
