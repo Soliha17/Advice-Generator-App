@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Krrish105/Advice-Generator-App](https://github.com/Krrish105/Advice-Generator-App)
-- Live Site URL: [https://krrish105.github.io/Advice-Generator-App/](https://krrish105.github.io/Advice-Generator-App/)
+- Solution URL: [https://github.com/Soliha17/advice-generator-app](https://github.com/Soliha17/advice-generator-app)
+- Live Site URL: [https://advice-generator-solya.netlify.com](https://advice-generator-solya.netlify.com)
 
 ## My process
 
@@ -43,6 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [Krrish105](https://www.frontendmentor.io/profile/Krrish105)
-- Twitter - [\_karishma10](https://twitter.com/_karishma10)
-- Codepen - [Krrish105](https://codepen.io/krrish105)
+- Frontend Mentor - [Soliha17](https://www.frontendmentor.io/profile/Soliha)
